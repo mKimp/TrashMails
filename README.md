@@ -4,6 +4,8 @@
 
 - This script is coded up using the Goolge App Scripts.
 - Javascript
+- Gmail API
+- Timing event triggers
 
 ## How to use it?
 
