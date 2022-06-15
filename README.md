@@ -1,4 +1,4 @@
-# TrashMails : Move your unimportant emails in the last 7 days from the inbox to the Trash automatically.
+# TrashMails : Move your unimportant emails in the last 7 days from the Inbox to the Trash automatically.
 
 ## Tech Stacks
 
